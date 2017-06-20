@@ -1,5 +1,5 @@
-# react-sample-app
-react sample application
+# React Routes
+React routes with History
 
 ## Dev
 
@@ -20,6 +20,3 @@ $ npm run build
 ```
 
 
-## License
-
-MIT © [Gopal Saini](https://github.com/gsaini)
